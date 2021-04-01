@@ -1,6 +1,6 @@
 package praktikum4.cpu;
 
-class CPU {
+class cpu {
     double price;
     // nested class
     class Processor{
