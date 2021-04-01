@@ -1,4 +1,4 @@
-package praktikum4.CPU;
+package praktikum4.cpu;
 
 class CPU {
     double price;
